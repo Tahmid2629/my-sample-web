@@ -1,4 +1,19 @@
-div{
-    background-color: aqua;
+*{ 
+    background-color: blanchedalmond;
+}
+h3{
+    
+    font-size: 30px;
+    border: 2px solid bisque;
+    margin-right: 50%; 
     padding: 10px;
+    box-shadow: 10px 10px 5px grey;
+    background-color: beige;
+}
+.para:hover{
+    box-shadow: 5px 5px 5px grey;
+    box-sizing: border-box;
+    font-size: larger;
+    background-color: bisque;
+    border:2px solid blanchedalmond;  
 }
